@@ -1,2 +1,2 @@
 # ecommerce-website
-This is a simple shoping cart.
+This is a simple blog post fullstack project.
